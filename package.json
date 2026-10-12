@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "plantilla basada en ES",
   "license": "MIT",
-  "author": "Erick",
+  "author": "Fatima",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
